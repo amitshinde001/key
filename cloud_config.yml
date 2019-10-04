@@ -5,5 +5,5 @@ users:
     - "sudo"
     - "docker"
    ssh-authorized-keys:
-    - "ssh-rsa +zhM5jbqfAHJxQzh3nNWdPOTWATq/eQXZUCG2mCXzucR+87H/r9z3WuEr7pUWs9ldnJ5lmExUB4etOHyoGdmbcwA5svnbLYEyXFhN7hmhUpFRE/S9TGVYZL4/TZJ+t/Y00mAfPLBtXG4CbIteXBBl3IW6xrRbhrWkQuNTb9Hd/LHPTz03AdBVwM4PQFolEzFPLMMErol83ZE/7tgee0PySQv3smrNGF2zc6A0eUv8yew== cams-login"
+    - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3wbf3zNT2EP+4U2Ti++1ud2hPicMA2A12jlAUGxLNBCDn3QzzvZUPDVedvBrEWwZhOI9jPjBlkLyLuQdDky9hXq+wkDXiMcKTAhlObseAiuxaW2VdozPwXXiip0VO/4sKZSeu41RokA397BKE55fkXgUJq/PBVZTbNzCFIeO/YRdaF6PJQISYDJ313TRKN8m78VLiepJh40bRtnV5eRSkbDm8s7rGLs42kEbEseQE54M3YEwa1wE76LK2XOgVobrOmg0ttmaBI1Q9/otLnFluuMQKU+j0FIwxwimT8HAHntF9+cIj32hZowCC7Icuwvi836IINrF05/6pAjOvoUpF amshinde@131742-T480"
 
