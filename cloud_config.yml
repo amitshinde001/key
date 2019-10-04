@@ -1,9 +1,8 @@
 #cloud-config
 users:
- - name: "seca-dev"
+ - name: "cams-amit"
    groups:
     - "sudo"
     - "docker"
    ssh-authorized-keys:
-    - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3wbf3zNT2EP+4U2Ti++1ud2hPicMA2A12jlAUGxLNBCDn3QzzvZUPDVedvBrEWwZhOI9jPjBlkLyLuQdDky9hXq+wkDXiMcKTAhlObseAiuxaW2VdozPwXXiip0VO/4sKZSeu41RokA397BKE55fkXgUJq/PBVZTbNzCFIeO/YRdaF6PJQISYDJ313TRKN8m78VLiepJh40bRtnV5eRSkbDm8s7rGLs42kEbEseQE54M3YEwa1wE76LK2XOgVobrOmg0ttmaBI1Q9/otLnFluuMQKU+j0FIwxwimT8HAHntF9+cIj32hZowCC7Icuwvi836IINrF05/6pAjOvoUpF amshinde@131742-T480"
-
+    - "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAqRScPKtEkMSB0PSz3hwJNqaS0YlKGtvXcQB11l2zX1YKNswXMdAlb8eQC44JMXdBV6Eswp/z6eFgHn4nkJ1dGoCneUJwsMoesvhnUhAOT/IWuKp3Bm9FxK6QFMWC/kMnrO+uyBbV4ge0LEAzqfFQw++57gAg8t65SGFVTje356FeA36q6I6tDdqYwxXO0c73kR8bgzKyqBYZAo84WjlkWw8eFysjbdM4/S3d1pbpUfc87xXjWATf7A8lPh94QwIbk0dW8aTRXw2KOkVIL1qSzoX1q84am9T5fmIftPcdaejkP9FfVUR1D0XbAifPLvgiKzcNG9AZ9o9UvdDMQI4+lQ== cams-amit"
