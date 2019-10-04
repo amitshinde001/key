@@ -1,0 +1,8 @@
+#cloud-config
+users:
+ - name: "seca-dev"
+   groups:
+    - sudo
+    - docker
+  ssh-authorized-keys:
+    - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3wbf3zNT2EP+4U2Ti++1ud2hPicMA2A12jlAUGxLNBCDn3QzzvZUPDVedvBrEWwZhOI9jPjBlkLyLuQdDky9hXq+wkDXiMcKTAhlObseAiuxaW2VdozPwXXiip0VO/4sKZSeu41RokA397BKE55fkXgUJq/PBVZTbNzCFIeO/YRdaF6PJQISYDJ313TRKN8m78VLiepJh40bRtnV5eRSkbDm8s7rGLs42kEbEseQE54M3YEwa1wE76LK2XOgVobrOmg0ttmaBI1Q9/otLnFluuMQKU+j0FIwxwimT8HAHntF9+cIj32hZowCC7Icuwvi836IINrF05/6pAjOvoUpF amshinde@131742-T480"
