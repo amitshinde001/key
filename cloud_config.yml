@@ -2,8 +2,8 @@
 users:
  - name: "seca-dev"
    groups:
-    - sudo
-    - docker
-  ssh-authorized-keys:
+    - "sudo"
+    - "docker"
+   ssh-authorized-keys:
     - "ssh-rsa +zhM5jbqfAHJxQzh3nNWdPOTWATq/eQXZUCG2mCXzucR+87H/r9z3WuEr7pUWs9ldnJ5lmExUB4etOHyoGdmbcwA5svnbLYEyXFhN7hmhUpFRE/S9TGVYZL4/TZJ+t/Y00mAfPLBtXG4CbIteXBBl3IW6xrRbhrWkQuNTb9Hd/LHPTz03AdBVwM4PQFolEzFPLMMErol83ZE/7tgee0PySQv3smrNGF2zc6A0eUv8yew== cams-login"
 
